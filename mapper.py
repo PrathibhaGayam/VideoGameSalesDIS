@@ -15,5 +15,5 @@ for line in sys.stdin:
     if len(data) == 16:
         name, platform, year, genre, publisher, nasales, eusales, jpsales, othersales, globalsales, criticScore, criticCount, userScore, userCount, developer,rating = data
 	salesTotal = float(nasales)+ float(eusales)+ float(jpsales)+ float(othersales)+ float(globalsales)
-        print "{0}\t{1}".format(developer, salesTotal)
+        print "{0}\t{1}".format(year, salesTotal)
 
