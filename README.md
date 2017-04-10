@@ -1,5 +1,4 @@
 # VideoGameSalesDIS
-MAP REDUCE
 Skip to content
 This repository
 Search
