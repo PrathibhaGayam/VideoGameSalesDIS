@@ -5,6 +5,8 @@
 #
 # We want elements 4 (genre) and 6+7+8+9+10 (asales+eusales+jpsales+othersales+globalsales)
 # We need to write them out to standard output, separated by a tab
+# Input: Wii Sports	Wii	2006	Sports	Nintendo	41.36	28.96	3.77	8.45	82.53	76	51	8	322	Nintendo	E
+# output: Nintendo 	165.07
 
 import sys
 
